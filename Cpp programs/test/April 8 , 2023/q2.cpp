@@ -12,4 +12,4 @@
         cout<<a<<"*"<<i<<"="<<a*i<<endl;
     }
     return 0;
-  }
+  } b
