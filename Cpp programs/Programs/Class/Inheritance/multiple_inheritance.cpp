@@ -24,5 +24,4 @@ int main(){
     c1.printA();
     c1.printB();
     c1.printC();
-
 }

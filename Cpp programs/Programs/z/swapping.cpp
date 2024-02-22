@@ -17,7 +17,7 @@ int main(){
     // cout<<"\nafter swapping :"<<"a = "<<a<<" ,b = "<<b;
     
 
-    //Swapping without using 3rd variable
+    //Swapping without using 3rd variablex
 
     int a,b;
     cout<<"Enter a = ";

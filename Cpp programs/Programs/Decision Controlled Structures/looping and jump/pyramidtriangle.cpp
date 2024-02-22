@@ -15,13 +15,13 @@ int main(){
         }cout<<"\n";
     }
 
-    for(i=x;i>=1;i--){
-        for(k=i;k<=(x-1);k++){
-            cout<<" ";
-        }
-        for(j=i;j>1;j--){
-            cout<<" *";
-        }cout<<"\n";
-    }
+    // for(i=x;i>=1;i--){
+    //     for(k=i;k<=(x-1);k++){
+    //         cout<<" ";
+    //     }
+    //     for(j=i;j>1;j--){
+    //         cout<<" *";
+    //     }cout<<"\n";
+    // }
     return 0;
 }
