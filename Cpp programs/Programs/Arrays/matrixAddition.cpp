@@ -34,8 +34,8 @@ int main(){
     cout<<"The addition of matrix is ="<<endl;
     for(i=0 ; i<rows ; i++){
         for(j=0 ; j<coloumns ; j++){
-            cout<<addition[i][j]<<endl;
-        }
+            cout<<addition[i][j]<<"  ";
+        }cout<<endl;
     }
     return 0;
 }
